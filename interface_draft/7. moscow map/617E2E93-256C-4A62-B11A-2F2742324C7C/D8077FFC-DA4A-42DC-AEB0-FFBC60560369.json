@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "8766d810-ab35-11e7-a2e3-9740d500e1a3",
+  "_class": "symbolInstance",
+  "do_objectID": "D8077FFC-DA4A-42DC-AEB0-FFBC60560369",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,50 +13,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 1920,
+    "width": 1080,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "5B0B66A1-C663-4E6E-B88B-1021BCDDDFB7"
-    },
-    {
-      "class": "artboard",
-      "id": "1F9E8936-7C20-4852-A3F7-6868D6DE56BB"
-    }
-  ],
-  "name": "2. main menu",
-  "nameIsFixed": true,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "grid",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.04999999701976776
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "0DB62C86-1F38-429F-B5E8-68AE71520460",
+  "verticalSpacing": 0
 }

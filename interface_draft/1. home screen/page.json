@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "6C16ADAA-94B5-44BE-8E24-9021F918B6C5"
+    },
+    {
+      "class": "artboard",
+      "id": "207E8D7E-F65C-4BEB-8D84-F9A2095D53D8"
+    }
   ],
   "name": "1. home screen",
   "nameIsFixed": true,
