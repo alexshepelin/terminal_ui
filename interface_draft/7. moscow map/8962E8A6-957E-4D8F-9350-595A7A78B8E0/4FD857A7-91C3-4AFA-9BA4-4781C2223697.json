@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi8yODxASElKS0xQVFtfY2ZnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QDwQTBEAEMAREBDgEOgAgBDQEMgQ4BDYENQQ9BDgET9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgBiAGV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlV05TQ29sb3JWTlNLZXJu1wojJCUmJygpKioqLS0uWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugAuACYAJgAkjQDgAAAAAAAAQAdISCjAxoIAK0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojU3WE5TT2JqZWN00jM0OTpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM5OzdfEBBOU1BhcmFncmFwaFN0eWxl0go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQURHokJDgA6AD6JFRoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAXxARTW9zY293U2Fuc1JlZ3VsYXLSMzRNTl8QE05TTXV0YWJsZURpY3Rpb25hcnmjTU83XE5TRGljdGlvbmFyedIzNFFSXxAQTlNGb250RGVzY3JpcHRvcqJTN18QEE5TRm9udERlc2NyaXB0b3LUVVZXClguWVpVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxAIAVgBfSXApdXlROU0lEEAGAFtIzNGBhXE5TQ29sb3JTcGFjZaJiN1xOU0NvbG9yU3BhY2XSMzRkZVdOU0NvbG9yomQ3I7/gAAAAAAAA0jM0T2iiTzfSMzRqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsN18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCmAK0AtQDAAMUAxwDJAMsAzQDSANQA1gDYANoA3ADvAREBGQEgAS8BOgFGAVMBZQF3AYwBjgGQAZIBlAGdAZ8BpAGlAacBrAG3AcAByAHLAdQB2QHzAfcCCgIPAiwCLgIwAjcCOgI8Aj4CQQJDAkUCRwJdAnMCfAKQApUCqwKvArwCwQLUAtcC6gLzAvkDBgMbAyIDJAMmAysDMAMyAzQDOQNGA0kDVgNbA2MDZgNvA3QDdwN8A5EDlAOpA7sDvgPDAAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAAA8U="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4FD857A7-91C3-4AFA-9BA4-4781C2223697",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 156,
+    "x": 742,
+    "y": 279
+  },
+  "glyphBounds": "{{1, 5}, {154, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "График движения",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE01656D-6B66-40CA-862F-51FE62F26801"
+  },
+  "textBehaviour": 0
+}

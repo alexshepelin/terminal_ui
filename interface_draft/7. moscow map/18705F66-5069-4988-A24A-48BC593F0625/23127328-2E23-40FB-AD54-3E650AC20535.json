@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGjI1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIERIYJSYnKCk2OT9DR09QUVJTV1tiZmptbnB8fYCEiFUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAHoADgCBlBB8EPgQ4BEEEOtITDBQXWk5TLm9iamVjdHOiFRaABIAbgB3TGRMMGh8kV05TLmtleXOkGxwdHoAFgAaAB4AIpCAhIiOACYANgBWAGYAaXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvclZOU0tlcm7XDCorLC0uLzAxMTE0NDVaTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb26ADIAKgAqACiNAOAAAAAAAABAB0hMMNziggAvSOjs8PVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiPD5YTlNPYmplY3TSOjtAQV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0BCPl8QEE5TUGFyYWdyYXBoU3R5bGXSDERFRl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMZEwxIS06iSUqAD4AQokxNgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABfEBFNb3Njb3dTYW5zUmVndWxhctI6O1RVXxATTlNNdXRhYmxlRGljdGlvbmFyeaNUVj5cTlNEaWN0aW9uYXJ50jo7WFlfEBBOU0ZvbnREZXNjcmlwdG9yolo+XxAQTlNGb250RGVzY3JpcHRvctRcXV4MXzVgYVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAgBaAGNJjDGRlVE5TSUQQAYAX0jo7Z2hcTlNDb2xvclNwYWNlomk+XE5TQ29sb3JTcGFjZdI6O2tsV05TQ29sb3Kiaz4jv+AAAAAAAADSOjtWb6JWPtMZEwxxdiSkGxwdHoAFgAaAB4AIpCAhInqACYANgBWAHIAaEADSOjt+f15OU011dGFibGVBcnJheaN+PD7SgQyCg1dOUy5kYXRhRAQAAQGAH9I6O4WGXU5TTXV0YWJsZURhdGGjhYc+Vk5TRGF0YdI6O4mKXxASTlNBdHRyaWJ1dGVkU3RyaW5noos+XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Y6PVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBqAHMAhQCSAJkAmwCdAJ8AoQCsALEAvAC/AMEAwwDFAMwA1ADZANsA3QDfAOEA5gDoAOoA7ADuAPABAwElAS0BNAFDAU4BWgFnAXkBiwGgAaIBpAGmAagBsQGzAbgBuQG7AcABywHUAdwB3wHoAe0CBwILAh4CIwJAAkICRAJLAk4CUAJSAlUCVwJZAlsCcQKHApACpAKpAr8CwwLQAtUC6ALrAv4DBwMNAxoDLwM2AzgDOgM/A0QDRgNIA00DWgNdA2oDbwN3A3oDgwOIA4sDkgOXA5kDmwOdA58DpAOmA6gDqgOsA64DsAO1A8QDyAPNA9UD2gPcA+ED7wPzA/oD/wQUBBcELAQ+BEEERgAAAAAAAAIBAAAAAAAAAJAAAAAAAAAAAAAAAAAAAARI"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "23127328-2E23-40FB-AD54-3E650AC20535",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 57,
+    "x": 742,
+    "y": 279
+  },
+  "glyphBounds": "{{1, 6}, {56, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Поиск",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE01656D-6B66-40CA-862F-51FE62F26801"
+  },
+  "textBehaviour": 0
+}

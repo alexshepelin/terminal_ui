@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi8yODxASElKS0xQVFtfY2ZnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2oEEgQ1BDsEPgQ/BEAEPgQ6BDAEQtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgBiAGV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlV05TQ29sb3JWTlNLZXJu1wojJCUmJygpKioqLS0uWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9ugAuACYAJgAkjQEMAAAAAAAAQAdISCjAxoIAK0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojU3WE5TT2JqZWN00jM0OTpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM5OzdfEBBOU1BhcmFncmFwaFN0eWxl0go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQURHokJDgA6AD6JFRoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A8AAAAAAAAXxARTW9zY293U2Fuc1JlZ3VsYXLSMzRNTl8QE05TTXV0YWJsZURpY3Rpb25hcnmjTU83XE5TRGljdGlvbmFyedIzNFFSXxAQTlNGb250RGVzY3JpcHRvcqJTN18QEE5TRm9udERlc2NyaXB0b3LUVVZXClguWVpVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjEgMSAxAIAVgBfSXApdXlROU0lEEAGAFtIzNGBhXE5TQ29sb3JTcGFjZaJiN1xOU0NvbG9yU3BhY2XSMzRkZVdOU0NvbG9yomQ3Ir9gAADSMzRPaKJPN9IzNGprXxASTlNBdHRyaWJ1dGVkU3RyaW5nomw3XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W9wVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJoAoQCpALQAuQC7AL0AvwDBAMYAyADKAMwAzgDQAOMBBQENARQBIwEuAToBRwFZAWsBgAGCAYQBhgGIAZEBkwGYAZkBmwGgAasBtAG8Ab8ByAHNAecB6wH+AgMCIAIiAiQCKwIuAjACMgI1AjcCOQI7AlECZwJwAoQCiQKfAqMCsAK1AsgCywLeAucC7QL6Aw8DFgMYAxoDHwMkAyYDKAMtAzoDPQNKA08DVwNaA18DZANnA2wDgQOEA5kDqwOuA7MAAAAAAAACAQAAAAAAAABxAAAAAAAAAAAAAAAAAAADtQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "354384E1-E2A5-443D-9C3F-13219372F882",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 148,
+    "x": 106,
+    "y": 267
+  },
+  "glyphBounds": "{{2, 10}, {147, 26}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Велопрокат",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AA1B7A63-1BC5-4FD9-8C21-6F03C88453A0"
+  },
+  "textBehaviour": 0
+}
