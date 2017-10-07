@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "78EF482B-3B31-4364-BE08-A03FC9882941"
+    }
   ],
   "name": "5. information",
   "nameIsFixed": true,

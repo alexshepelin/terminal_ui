@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "194BC97A-A39A-46B6-B2A0-0D5326FDAF6F"
+    }
   ],
   "name": "10. about station",
   "nameIsFixed": true,
