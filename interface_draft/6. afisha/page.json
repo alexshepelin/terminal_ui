@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "BCE73750-0DA2-460E-9FF3-A8A34C2DC895"
+    },
+    {
+      "class": "artboard",
+      "id": "192DA661-1AA6-486F-AF96-03BC7D34E05B"
+    }
   ],
   "name": "6. afisha",
   "nameIsFixed": true,

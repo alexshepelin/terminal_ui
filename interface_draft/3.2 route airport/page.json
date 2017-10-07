@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "11978C73-BCD2-44F1-BD19-E888FBD19281"
+    }
   ],
   "name": "3.2 route airport",
   "nameIsFixed": true,
