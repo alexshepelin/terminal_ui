@@ -31,7 +31,20 @@
     "version": 93
   },
   "pages": [
-    "Page 1",
+    "0. typography",
+    "1. home screen",
+    "2. main menu",
+    "3.1. route point on map",
+    "3.2 route airport",
+    "3.3 route metro",
+    "4. music metro",
+    "5. information",
+    "6. afisha",
+    "7. moscow map",
+    "8. transport",
+    "9. veloparkovki",
+    "10. about station",
+    "11. parkovki",
     "Symbols"
   ],
   "userInfo": {
