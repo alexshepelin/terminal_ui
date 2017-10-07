@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "DBBB041A-8AC2-4583-BC82-A66100FE3B55",
+  "_class": "group",
+  "do_objectID": "B8B58225-7BDA-41F4-B5CF-3477BE3B291C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1080,
+    "width": 256,
+    "x": 744,
+    "y": 360
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -502,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,12 +26,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "FE1A8DA3-B70D-49CE-A860-EDC0DC0F5521"
+      "class": "text",
+      "id": "041B945D-2219-4521-92FD-67EB49F3657A"
+    },
+    {
+      "class": "text",
+      "id": "FED7DA04-E61B-4BAA-82F9-68CDFA05311A"
     }
   ],
-  "name": "9. veloparkovki",
-  "nameIsFixed": true,
+  "name": "Group 4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,11 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -331,
-    "guides": [
-    ]
   }
 }
