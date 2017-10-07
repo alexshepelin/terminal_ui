@@ -35,7 +35,7 @@
     "y": -521
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -110,7 +110,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 984
   },
-  "name": "Moskow_map",
+  "name": "Music metro",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

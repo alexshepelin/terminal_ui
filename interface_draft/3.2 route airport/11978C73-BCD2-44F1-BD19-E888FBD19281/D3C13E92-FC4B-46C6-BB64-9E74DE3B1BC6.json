@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi8yODxASElKS0xQVFVcYGRnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QEAQSBEsEMQQ1BEAEOARCBDUAIAQ8BDAEQARIBEAEQwRC0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAFYAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVWTlNLZXJuV05TQ29sb3LXCiMkJSYnKCkqKiotLS5aTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb26AC4AJgAmACSNAQwAAAAAAABAB0hIKMDGggArSMzQ1NlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiNTdYTlNPYmplY3TSMzQ5Ol8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozk7N18QEE5TUGFyYWdyYXBoU3R5bGXSCj0+P18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgpBREeiQkOADoAPokVGgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDwAAAAAAABfEBFNb3Njb3dTYW5zUmVndWxhctIzNE1OXxATTlNNdXRhYmxlRGljdGlvbmFyeaNNTzdcTlNEaWN0aW9uYXJ50jM0UVJfEBBOU0ZvbnREZXNjcmlwdG9yolM3XxAQTlNGb250RGVzY3JpcHRvciK/YAAA1FZXWApZLlpbVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYxIDEgMQCAFoAY0l0KXl9UTlNJRBABgBfSMzRhYlxOU0NvbG9yU3BhY2WiYzdcTlNDb2xvclNwYWNl0jM0ZWZXTlNDb2xvcqJlN9IzNE9ook830jM0amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDdfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAqACvALcAwgDHAMkAywDNAM8A1ADWANgA2gDcAN4A8QETARoBIgExATwBSAFVAWcBeQGOAZABkgGUAZYBnwGhAaYBpwGpAa4BuQHCAcoBzQHWAdsB9QH5AgwCEQIuAjACMgI5AjwCPgJAAkMCRQJHAkkCXwJ1An4CkgKXAq0CsQK+AsMC1gLZAuwC8QL6AwADDQMiAykDKwMtAzIDNwM5AzsDQANNA1ADXQNiA2oDbQNyA3UDegOPA5IDpwO5A7wDwQAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAPD"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D3C13E92-FC4B-46C6-BB64-9E74DE3B1BC6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 242,
+    "x": 106,
+    "y": 531
+  },
+  "glyphBounds": "{{2, 9}, {241, 27}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Выберите маршрут",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AA1B7A63-1BC5-4FD9-8C21-6F03C88453A0"
+  },
+  "textBehaviour": 0
+}
