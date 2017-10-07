@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
+    "height": 1368,
     "width": 256,
     "x": 744,
     "y": 360
@@ -27,11 +27,11 @@
   "layers": [
     {
       "class": "text",
-      "id": "ABA0F1B5-AA23-4211-A45F-B6CBAD20E7F0"
+      "id": "185039FF-ABA2-4805-9170-72B9442A1823"
     },
     {
       "class": "text",
-      "id": "185039FF-ABA2-4805-9170-72B9442A1823"
+      "id": "ABA0F1B5-AA23-4211-A45F-B6CBAD20E7F0"
     }
   ],
   "name": "Group 4",

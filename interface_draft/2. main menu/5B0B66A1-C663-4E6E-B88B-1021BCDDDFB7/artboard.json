@@ -32,7 +32,7 @@
     "height": 1920,
     "width": 1080,
     "x": 7836,
-    "y": 1073
+    "y": 1071
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -81,6 +81,18 @@
     {
       "class": "group",
       "id": "427A08FC-61BA-488A-8FB2-B45B9518AAB9"
+    },
+    {
+      "class": "group",
+      "id": "4596317A-B9A6-45A5-99AC-552F615BF401"
+    },
+    {
+      "class": "group",
+      "id": "218258E4-03A7-4517-94D3-E2E90F97E90B"
+    },
+    {
+      "class": "group",
+      "id": "458DE95F-67C0-4BD1-87F0-B308473B90F9"
     },
     {
       "class": "symbolInstance",
