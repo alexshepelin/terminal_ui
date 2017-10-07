@@ -7,7 +7,7 @@
     "green": 0.1316432823129252,
     "red": 0.1316432823129252
   },
-  "do_objectID": "18705F66-5069-4988-A24A-48BC593F0625",
+  "do_objectID": "30361FA7-BF27-46EA-A5C1-0B5E76A06292",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1920,
     "width": 1080,
-    "x": 1744,
-    "y": 295
+    "x": 3014,
+    "y": 2392
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -52,47 +52,51 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "28BCFD46-EC9D-44EB-B4DC-F5E2FC9D55C7"
+      "id": "8FA9A7D9-7A7A-4C9D-A950-89C582D255D6"
     },
     {
       "class": "symbolInstance",
-      "id": "73479B5A-F1AB-4F38-8D12-E7F6D9ED93AE"
+      "id": "77C6B988-1978-4947-A50A-8863FD2E03E1"
     },
     {
       "class": "symbolInstance",
-      "id": "FDBFEB58-12DB-4159-85EF-635A5BCC51D0"
+      "id": "513D2F19-D5CF-41CA-BF73-F1F20D99FDD2"
     },
     {
       "class": "symbolInstance",
-      "id": "1BBE1DCD-06CC-4437-836E-08BB057D6941"
+      "id": "64CF9112-2044-478D-85C7-0E7768F1E7F4"
     },
     {
       "class": "symbolInstance",
-      "id": "C914BDB3-B188-4F30-9D01-E8169EE738DE"
+      "id": "80F93480-4D9D-4DA5-9FDA-B8478BED255C"
     },
     {
       "class": "symbolInstance",
-      "id": "DD0CB827-2707-46FA-8773-C061E0535AF1"
+      "id": "FB1B2186-1972-4A0C-8B61-C21FFFEF59C5"
     },
     {
       "class": "symbolInstance",
-      "id": "04DA8D99-2F79-4A62-9215-EE69FCE9A14C"
+      "id": "3EE18D2A-695C-4D2E-972A-B14D7CD18309"
     },
     {
       "class": "text",
-      "id": "23127328-2E23-40FB-AD54-3E650AC20535"
+      "id": "6FF06322-B779-4340-B94E-B8A433FB9166"
     },
     {
       "class": "text",
-      "id": "354384E1-E2A5-443D-9C3F-13219372F882"
+      "id": "1E94F964-6D60-4AD8-BC7E-EE5B13E60D9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EB5317F-259F-45E7-8F57-031621B03DA6"
     },
     {
       "class": "text",
-      "id": "798461E7-BE76-4C35-8BB3-7D265E839A32"
+      "id": "20DA4247-CEE0-4E5F-B8DC-ADBD5B251E48"
     },
     {
       "class": "text",
-      "id": "DC2041D5-1542-4E35-ADA1-7B120AC6E7C2"
+      "id": "7C231789-7C55-4658-93D6-AEAC79C4099C"
     }
   ],
   "layout": {
@@ -110,7 +114,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 984
   },
-  "name": "veloprokat",
+  "name": "Moskow_map Copy 3",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

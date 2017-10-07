@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PktOUVVcYGRnaVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2UEHQQwBDcEMAQ00xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3Iiv2AAANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPAAAAAAAAF8QEU1vc2Nvd1NhbnNSZWd1bGFy0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LXCj9AQUJDREVGRkZJSUpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb26AFIASgBKAEiNAQwAAAAAAABAB0hIKTE2ggBPSNDVPUFdOU0FycmF5ok850jQ1UlNfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNSVDlfEBBOU1BhcmFncmFwaFN0eWxl1FZXWApZSlpbVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYxIDEgMQCAFoAY0l0KXl9UTlNJRBABgBfSNDVhYlxOU0NvbG9yU3BhY2WiYzlcTlNDb2xvclNwYWNl0jQ1ZWZXTlNDb2xvcqJlOdI0NThoojg50jQ1amtfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibDlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRb3BUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAkACXAJ8AqgCvALEAswC1ALcAvAC+AMAAwgDEAMYAzQDvAQIBCgEPARQBMQEzATUBPAE/AUEBQwFGAUgBSgFMAWIBeAGBAZUBmgGlAa4BxAHIAdUB3gHjAfYB+QIMAhsCJgIyAj8CUQJjAngCegJ8An4CgAKJAosCkAKRApMCmAKgAqMCqALCAsYC2QLiAugC9QMKAxEDEwMVAxoDHwMhAyMDKAM1AzgDRQNKA1IDVQNaA10DYgN3A3oDjwOhA6QDqQAAAAAAAAIBAAAAAAAAAHEAAAAAAAAAAAAAAAAAAAOr"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1E94F964-6D60-4AD8-BC7E-EE5B13E60D9B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 75,
+    "x": 214,
+    "y": 267
+  },
+  "glyphBounds": "{{2, 10}, {73, 24}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Назад",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AA1B7A63-1BC5-4FD9-8C21-6F03C88453A0"
+  },
+  "textBehaviour": 0
+}
