@@ -3,6 +3,13 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2627450980392157,
+        "green": 0.1647058823529412,
+        "red": 0.05098039215686272
+      }
     ],
     "gradients": [
     ],
@@ -25,12 +32,13 @@
     ]
   },
   "meta": {
-    "appVersion": "46.1",
-    "build": 44463,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "appVersion": "46.2",
+    "build": 44496,
+    "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
     "version": 93
   },
   "pages": [
+    "Symbols",
     "0. typography",
     "1. home screen",
     "2. main menu",
@@ -47,8 +55,7 @@
     "8. transport",
     "9. veloparkovki",
     "10. about station",
-    "11. parkovki",
-    "Symbols"
+    "11. parkovki"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

@@ -56,10 +56,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "83F33E39-4D76-4EE2-BE09-85EF061ED0C5"
-    },
-    {
-      "class": "symbolInstance",
       "id": "5F6A3E2B-F5B8-4797-A8FB-3798477C418F"
     },
     {
@@ -89,6 +85,10 @@
     {
       "class": "shapeGroup",
       "id": "A22C53A4-88F9-40A6-B4FE-4E6AD7B8A085"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D741ADFA-A107-4B5A-AED6-A6CB61CA8FAC"
     }
   ],
   "layout": {

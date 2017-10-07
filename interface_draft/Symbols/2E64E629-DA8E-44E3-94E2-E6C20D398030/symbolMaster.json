@@ -7,7 +7,7 @@
     "green": 0.1269549197542625,
     "red": 0.02702863288648201
   },
-  "changeIdentifier": 770,
+  "changeIdentifier": 974,
   "do_objectID": "2E64E629-DA8E-44E3-94E2-E6C20D398030",
   "exportOptions": {
     "_class": "exportOptions",
@@ -64,6 +64,21 @@
       "id": "28C0F9BD-44C3-4B4F-BD04-27EC553D1980"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 24,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 48,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1080
+  },
   "name": "block/header",
   "nameIsFixed": true,
   "resizesContent": true,
