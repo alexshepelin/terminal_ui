@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "5436D42A-8199-4ED0-9D97-BD30B08C5EB1",
+  "_class": "group",
+  "do_objectID": "E0BD350C-945F-46BD-92A5-9EE4809150B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1080,
+    "width": 256,
+    "x": 134,
+    "y": 360
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -502,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,12 +26,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "3EAEB2BB-E822-4A51-AFFB-E965E2AA59F9"
+      "class": "text",
+      "id": "01B49D7A-C021-4884-B88C-18CB9C52A043"
+    },
+    {
+      "class": "text",
+      "id": "5C4AE6C8-A671-472E-AAE4-1926063901DB"
     }
   ],
-  "name": "4. music metro",
-  "nameIsFixed": true,
+  "name": "Group 4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,11 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -331,
-    "guides": [
-    ]
   }
 }
