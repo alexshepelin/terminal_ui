@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "EC04C44B-0DE8-49DB-B6C1-88F624A27FCB",
+  "do_objectID": "824E7626-28BC-45DD-9EFF-DE8DCEEB83A1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 416,
-    "width": 984,
-    "x": 48,
-    "y": 752
+    "height": 1920,
+    "width": 1080,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,23 +28,23 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "menu/block/simple",
+  "name": "grid",
   "nameIsFixed": false,
-  "overrides": {
-    "1C7EBBEF-807C-43CE-884F-996626B68003": {
-      "symbolID": "529A6FC9-B8E4-4EAF-8626-D6B643B30E4D"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.04999999701976776
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "1986FACB-AE98-4306-9683-818B8B2ADFA3",
+  "symbolID": "0DB62C86-1F38-429F-B5E8-68AE71520460",
   "verticalSpacing": 0
 }
