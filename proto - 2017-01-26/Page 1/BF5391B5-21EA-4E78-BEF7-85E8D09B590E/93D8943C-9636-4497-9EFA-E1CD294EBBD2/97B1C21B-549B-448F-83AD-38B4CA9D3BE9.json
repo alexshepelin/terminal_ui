@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6Pk1QU1deYmZpa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QHQQaBDAEQARCBDAAIAQzBD4EQAQ+BDQEMAAgBDgAIAQ3BD0EMAQ6BD4EMgRLBDUAIAQ8BDUEQQRCBDDTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYAVgBlWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvciMAAAAAAAAAANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALgAAAAAAAF8QEU1vc2Nvd1NhbnNSZWd1bGFy0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LYCj9AQUJDREVGR0dHSkpLTFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbltOU0FsaWdubWVudIAUgBKAEoASI0AwAAAAAAAAEAEQAtISCk5PoIAT0jQ1UVJXTlNBcnJheaJROdI0NVRVXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjVFY5XxAQTlNQYXJhZ3JhcGhTdHlsZdRYWVoKW0tcXVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECgwLjE2NDcwNTg4MjQgMC4wMjM1Mjk0MTE3NiAwLjIxMTc2NDcwNTkAgBaAGNJfCmBhVE5TSUQQAYAX0jQ1Y2RcTlNDb2xvclNwYWNlomU5XE5TQ29sb3JTcGFjZdI0NWdoV05TQ29sb3KiZznSNDU4aqI4OdI0NWxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom45XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAMIAyQDRANwA4QDjAOUA5wDpAO4A8ADyAPQA9gD4AP8BIQE0ATwBRQFKAWcBaQFrAXIBdQF3AXkBfAF+AYABggGYAa4BtwHLAdAB2wHkAfoB/gILAhQCGQIsAi8CQgJTAl4CawJ3AokCmwKwArwCvgLAAsICxALNAs8C0QLWAtcC2QLeAuYC6QLuAwgDDAMfAygDLgM7A1ADewN9A38DhAOJA4sDjQOSA58DogOvA7QDvAO/A8QDxwPMA+ED5AP5BAsEDgQTAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAABBU="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "97B1C21B-549B-448F-83AD-38B4CA9D3BE9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 283,
+    "x": 24,
+    "y": 14
+  },
+  "glyphBounds": "{{31, 3}, {221, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Карта города и знако",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4C345774-CEF0-4406-B316-F91461B69017"
+  },
+  "textBehaviour": 1
+}

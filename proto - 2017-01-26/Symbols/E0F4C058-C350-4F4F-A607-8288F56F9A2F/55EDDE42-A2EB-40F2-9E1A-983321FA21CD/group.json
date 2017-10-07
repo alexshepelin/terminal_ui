@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "55EDDE42-A2EB-40F2-9E1A-983321FA21CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1920,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01710A1C-1010-4D24-B0B2-C630E7B71710"
+    },
+    {
+      "class": "group",
+      "id": "EF8DA408-87B1-4CA7-AB2E-64CE04E618F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C28F696D-FDD2-408A-BF5D-0E5720FF0B95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E7E1939-E59B-46D7-9343-B5E43C8F34E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE0A1D8F-3B5C-4EFD-87C2-A95A5059D955"
+    }
+  ],
+  "name": "old-block\\first screen 02",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

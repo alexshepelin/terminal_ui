@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6Pk1QU1deYmZpa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QFAQfBD4ENARABD4EMQQ9BDUENQAgAAoEPgAgBEEEQgQwBD0ERgQ4BDjTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYAVgBlWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvciMAAAAAAAAAANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALgAAAAAAAF8QEU1vc2Nvd1NhbnNSZWd1bGFy0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LYCj9AQUJDREVGR0dHSkpLTFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodF8QEk5TV3JpdGluZ0RpcmVjdGlvbltOU0FsaWdubWVudIAUgBKAEoASI0AwAAAAAAAAEAEQAtISCk5PoIAT0jQ1UVJXTlNBcnJheaJROdI0NVRVXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjVFY5XxAQTlNQYXJhZ3JhcGhTdHlsZdRYWVoKW0tcXVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECgwLjE2NDcwNTg4MjQgMC4wMjM1Mjk0MTE3NiAwLjIxMTc2NDcwNTkAgBaAGNJfCmBhVE5TSUQQAYAX0jQ1Y2RcTlNDb2xvclNwYWNlomU5XE5TQ29sb3JTcGFjZdI0NWdoV05TQ29sb3KiZznSNDU4aqI4OdI0NWxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom45XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFALAAtwC/AMoAzwDRANMA1QDXANwA3gDgAOIA5ADmAO0BDwEiASoBMwE4AVUBVwFZAWABYwFlAWcBagFsAW4BcAGGAZwBpQG5Ab4ByQHSAegB7AH5AgICBwIaAh0CMAJBAkwCWQJlAncCiQKeAqoCrAKuArACsgK7Ar0CvwLEAsUCxwLMAtQC1wLcAvYC+gMNAxYDHAMpAz4DaQNrA20DcgN3A3kDewOAA40DkAOdA6IDqgOtA7IDtQO6A88D0gPnA/kD/AQBAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAABAM="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E42C4B83-BC8A-47A2-885E-085EE7B1A427",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 120,
+    "x": 22,
+    "y": 174
+  },
+  "glyphBounds": "{{21, 2}, {79, 30}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Подробнее о станции",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4C345774-CEF0-4406-B316-F91461B69017"
+  },
+  "textBehaviour": 1
+}

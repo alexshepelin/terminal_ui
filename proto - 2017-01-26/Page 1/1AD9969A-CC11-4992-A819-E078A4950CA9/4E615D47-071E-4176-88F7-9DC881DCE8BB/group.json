@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "4E615D47-071E-4176-88F7-9DC881DCE8BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 676,
+    "width": 757,
+    "x": 48,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D071FBF-99F9-4DD8-B7BB-DE05D1CB33B1"
+    },
+    {
+      "class": "group",
+      "id": "5DF8C999-9E20-47EF-89A4-831C73120624"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0C29F74-F349-4E01-9D53-F04E6DFB08D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16319014-97DE-4614-B637-A3DB1189CD81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B77CD04-7071-488D-A668-FBD8356DF142"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "117E5A99-EA9E-434B-8E41-01EB5D12AB3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CA611D2-B21E-4E2D-8E35-4C406A726133"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E145BC24-EF02-4C72-948C-C4A321D063A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89FC43D8-9441-4E4E-98A3-6B2E8C4ED064"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3B27340-8BF7-44F3-BADC-023B95E79266"
+    },
+    {
+      "class": "group",
+      "id": "5C4FFA64-812A-409D-B603-1CEDC2784758"
+    },
+    {
+      "class": "group",
+      "id": "8117FC1A-381A-4AAE-881B-AAB4F543F7DB"
+    }
+  ],
+  "name": "map",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

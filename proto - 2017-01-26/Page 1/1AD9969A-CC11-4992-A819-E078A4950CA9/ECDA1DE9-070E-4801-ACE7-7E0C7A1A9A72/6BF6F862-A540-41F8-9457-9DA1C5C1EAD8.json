@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6BF6F862-A540-41F8-9457-9DA1C5C1EAD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 304.0000000000001,
+    "x": 24,
+    "y": 436
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "route mainpage list copy 9",
+  "nameIsFixed": false,
+  "overrides": {
+    "20209C8B-A37E-4244-8AB5-BEC9A0CCA562": "262",
+    "46A7FA9C-1DD3-46FF-B27B-319AFE7BD19D": "5",
+    "8FD1E758-59D4-4893-A23A-0811882ECF97": "15 мин",
+    "9F267E6E-6FF6-4BF1-A15F-0FFD99402059": "2-й микрорайон Южного Бутово"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D88301A9-DCF7-4255-ACCA-C6455C19A209",
+  "verticalSpacing": 0
+}

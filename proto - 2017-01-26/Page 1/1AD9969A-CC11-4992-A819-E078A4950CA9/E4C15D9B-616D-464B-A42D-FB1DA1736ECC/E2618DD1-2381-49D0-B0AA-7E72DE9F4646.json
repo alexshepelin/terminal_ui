@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6Pk1QU1deYmZpa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QEgQRBDsEOAQ2BDAEOQRIBDgENQAgBD8EMARABDoEPgQyBDoEONMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIwAAAAAAAAAA0gokJSZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AQgArTERIKKCsuoikqgAuADKIsLYANgA6AD18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AuAAAAAAAAXxARTW9zY293U2Fuc1JlZ3VsYXLSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctgKP0BBQkNERUZHR0dKSktMWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9uW05TQWxpZ25tZW50gBSAEoASgBIjQDAAAAAAAAAQARAC0hIKTk+ggBPSNDVRUldOU0FycmF5olE50jQ1VFVfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNUVjlfEBBOU1BhcmFncmFwaFN0eWxl1FhZWgpbS1xdVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QKDAuMTY0NzA1ODgyNCAwLjAyMzUyOTQxMTc2IDAuMjExNzY0NzA1OQCAFoAY0l8KYGFUTlNJRBABgBfSNDVjZFxOU0NvbG9yU3BhY2WiZTlcTlNDb2xvclNwYWNl0jQ1Z2hXTlNDb2xvcqJnOdI0NThqojg50jQ1bG1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibjlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcXJUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUArACzALsAxgDLAM0AzwDRANMA2ADaANwA3gDgAOIA6QELAR4BJgEvATQBUQFTAVUBXAFfAWEBYwFmAWgBagFsAYIBmAGhAbUBugHFAc4B5AHoAfUB/gIDAhYCGQIsAj0CSAJVAmECcwKFApoCpgKoAqoCrAKuArcCuQK7AsACwQLDAsgC0ALTAtgC8gL2AwkDEgMYAyUDOgNlA2cDaQNuA3MDdQN3A3wDiQOMA5kDngOmA6kDrgOxA7YDywPOA+MD9QP4A/0AAAAAAAACAQAAAAAAAABzAAAAAAAAAAAAAAAAAAAD/w=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E2618DD1-2381-49D0-B0AA-7E72DE9F4646",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 120,
+    "x": 22,
+    "y": 160
+  },
+  "glyphBounds": "{{20, 3}, {81, 30}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Ближайшие парковки",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4C345774-CEF0-4406-B316-F91461B69017"
+  },
+  "textBehaviour": 1
+}

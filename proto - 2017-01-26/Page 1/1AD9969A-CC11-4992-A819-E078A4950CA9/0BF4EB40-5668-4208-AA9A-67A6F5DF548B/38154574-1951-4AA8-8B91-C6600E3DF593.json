@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6Pk1QU1deYmZpa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA24EIQRFBDUEPAQwACAACgRBBEIEMAQ9BEYEOAQ40xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IjAAAAAAAAAADSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQC4AAAAAAABfEBFNb3Njb3dTYW5zUmVndWxhctI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y2Ao/QEFCQ0RFRkdHR0pKS0xaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRfEBJOU1dyaXRpbmdEaXJlY3Rpb25bTlNBbGlnbm1lbnSAFIASgBKAEiNAMAAAAAAAABABEALSEgpOT6CAE9I0NVFSV05TQXJyYXmiUTnSNDVUVV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1RWOV8QEE5TUGFyYWdyYXBoU3R5bGXUWFlaCltLXF1VTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAoMC4xNjQ3MDU4ODI0IDAuMDIzNTI5NDExNzYgMC4yMTE3NjQ3MDU5AIAWgBjSXwpgYVROU0lEEAGAF9I0NWNkXE5TQ29sb3JTcGFjZaJlOVxOU0NvbG9yU3BhY2XSNDVnaFdOU0NvbG9yomc50jQ1OGqiODnSNDVsbV8QEk5TQXR0cmlidXRlZFN0cmluZ6JuOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFxclRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCiAKkAsQC8AMEAwwDFAMcAyQDOANAA0gDUANYA2ADfAQEBFAEcASUBKgFHAUkBSwFSAVUBVwFZAVwBXgFgAWIBeAGOAZcBqwGwAbsBxAHaAd4B6wH0AfkCDAIPAiICMwI+AksCVwJpAnsCkAKcAp4CoAKiAqQCrQKvArECtgK3ArkCvgLGAskCzgLoAuwC/wMIAw4DGwMwA1sDXQNfA2QDaQNrA20DcgN/A4IDjwOUA5wDnwOkA6cDrAPBA8QD2QPrA+4D8wAAAAAAAAIBAAAAAAAAAHMAAAAAAAAAAAAAAAAAAAP1"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "38154574-1951-4AA8-8B91-C6600E3DF593",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 120,
+    "x": 22,
+    "y": 175
+  },
+  "glyphBounds": "{{32, 3}, {55, 29}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Схема станции",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4C345774-CEF0-4406-B316-F91461B69017"
+  },
+  "textBehaviour": 1
+}

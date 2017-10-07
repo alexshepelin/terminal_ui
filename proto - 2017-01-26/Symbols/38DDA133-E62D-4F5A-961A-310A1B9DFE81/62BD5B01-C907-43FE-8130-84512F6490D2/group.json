@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "62BD5B01-C907-43FE-8130-84512F6490D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 35,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "702B345B-A75A-49A4-BC8C-A606E46BB4E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1680B002-2B9D-49A1-8C30-1332EBDF4323"
+    },
+    {
+      "class": "text",
+      "id": "360FD52F-7A31-4D97-83C1-D6B97909EAEA"
+    }
+  ],
+  "name": "route place icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
