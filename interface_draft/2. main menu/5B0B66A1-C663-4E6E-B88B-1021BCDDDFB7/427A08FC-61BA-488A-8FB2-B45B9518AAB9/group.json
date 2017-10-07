@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 256,
-    "x": 744,
-    "y": 663
+    "height": 40,
+    "width": 287,
+    "x": 720,
+    "y": 671
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,10 +34,6 @@
       "id": "6BEE0090-2391-4434-9F11-3713608D0B90"
     },
     {
-      "class": "shapeGroup",
-      "id": "C2AD3C4A-F095-431E-8B44-45C9C69F6F6B"
-    },
-    {
       "class": "text",
       "id": "3B7BAF41-DEF6-49C9-BCAA-188BD1CA94E5"
     },
@@ -47,7 +43,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "52BC2567-DEB4-4515-AD4B-4B32D4BDBF64"
+      "id": "581CE9F4-A68A-427E-B9A8-34F0C9D1B7A3"
     },
     {
       "class": "text",
