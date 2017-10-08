@@ -14,9 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6.597593522637688,
-    "width": 12.78980192494153,
-    "x": 171,
+    "height": 6,
+    "width": 13,
+    "x": 115,
     "y": 21
   },
   "hasClickThrough": false,
@@ -61,7 +61,7 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 2
+        "thickness": 1
       }
     ],
     "endDecorationType": 0,

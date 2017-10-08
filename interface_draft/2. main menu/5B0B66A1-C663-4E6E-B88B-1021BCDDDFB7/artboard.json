@@ -52,6 +52,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "90C021D6-B99A-4419-B75A-94C4A7EA775F"
+    },
+    {
+      "class": "symbolInstance",
       "id": "F82C8DDD-4E5E-4875-AD2D-F20F2D97C687"
     },
     {
@@ -182,7 +186,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 984
   },
-  "name": "home",
+  "name": "menu",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

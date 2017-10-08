@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1712,
+  "changeIdentifier": 1834,
   "do_objectID": "CE52C664-3DE8-4610-82B0-33C6EF563737",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 200,
     "width": 16,
     "x": 244,
-    "y": 608
+    "y": 920
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
   ],
   "name": "block/scrollbar_none",

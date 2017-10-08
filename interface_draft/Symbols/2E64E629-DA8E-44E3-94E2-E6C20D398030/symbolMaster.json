@@ -7,7 +7,7 @@
     "green": 0.1269549197542625,
     "red": 0.02702863288648201
   },
-  "changeIdentifier": 974,
+  "changeIdentifier": 2638,
   "do_objectID": "2E64E629-DA8E-44E3-94E2-E6C20D398030",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,16 +48,16 @@
       "id": "561B2A95-4336-4D5E-8231-04D8371A24F8"
     },
     {
-      "class": "group",
-      "id": "4F1F5965-5ECF-44D6-BB4F-347D0036A104"
+      "class": "symbolInstance",
+      "id": "FE329E1F-782E-478E-8996-2DCA68257A73"
     },
     {
       "class": "text",
       "id": "99B5A9FE-5DED-4EF7-8EE2-DE5ED82E17BF"
     },
     {
-      "class": "group",
-      "id": "277AB463-E03C-40CD-80F3-01566F8BCC52"
+      "class": "symbolInstance",
+      "id": "1D3E36EB-12BA-41FE-AA07-76CA20A71B79"
     },
     {
       "class": "group",
@@ -66,7 +66,7 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 68,
+    "columnWidth": 60,
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -77,9 +77,9 @@
     "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
-    "totalWidth": 1080
+    "totalWidth": 984
   },
-  "name": "block/header",
+  "name": "block/header/block",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

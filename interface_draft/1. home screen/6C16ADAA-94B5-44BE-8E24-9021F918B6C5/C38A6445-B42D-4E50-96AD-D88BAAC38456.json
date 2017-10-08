@@ -30,6 +30,16 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "header opened",
   "nameIsFixed": false,
+  "overrides": {
+    "337B3262-1959-450A-9F77-067ACE42EA68": {
+      "symbolID": "FDBD881A-4B0B-401B-85EB-049154E2B884"
+    },
+    "561B2A95-4336-4D5E-8231-04D8371A24F8": "Сокол",
+    "D15A9E42-F76C-43D8-B0DC-DBE95734354A": "Арбатско-Покровская",
+    "FE329E1F-782E-478E-8996-2DCA68257A73": {
+      "symbolID": "6B8F86B0-1379-4748-ABF5-0BBC12F3DF84"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

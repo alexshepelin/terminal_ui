@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 203,
-    "x": 829,
+    "width": 144,
+    "x": 888,
     "y": 48
   },
   "hasClickThrough": false,
@@ -30,8 +30,8 @@
       "id": "7C20F61B-8F00-4485-A431-55F708B61976"
     },
     {
-      "class": "group",
-      "id": "0B0AE1F9-1B41-4735-95AB-86B676F71467"
+      "class": "symbolInstance",
+      "id": "D5F4A13D-10A8-421B-873D-7EFDD4242E43"
     },
     {
       "class": "text",

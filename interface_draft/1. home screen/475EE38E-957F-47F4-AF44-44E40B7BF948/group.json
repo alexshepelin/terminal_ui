@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 1920,
     "width": 1200,
-    "x": -1395,
-    "y": 226
+    "x": -5541,
+    "y": 3414
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,8 +34,8 @@
       "id": "95A54FE0-8CBF-4FF0-8D4B-4F732E673F80"
     }
   ],
-  "name": "background opened",
-  "nameIsFixed": false,
+  "name": "old back",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

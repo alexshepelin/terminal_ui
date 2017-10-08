@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1920,
     "width": 1080,
-    "x": 455,
-    "y": 226
+    "x": 2652,
+    "y": 583
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -52,11 +52,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "440A37C2-9B64-47B9-9BF2-2055DBC236D3"
+      "id": "346D9D99-BF8C-49E3-94AA-723CD318365A"
     },
     {
-      "class": "bitmap",
-      "id": "85CAF0B7-0BF9-4DCA-B3D5-111FD3D997CA"
+      "class": "symbolInstance",
+      "id": "440A37C2-9B64-47B9-9BF2-2055DBC236D3"
     },
     {
       "class": "symbolInstance",
@@ -64,35 +64,27 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DE0115EA-7929-4B6C-A74A-59FC39D30C49"
+      "id": "D5798740-13C4-491E-B620-B2E3A7C136D2"
     },
     {
       "class": "symbolInstance",
-      "id": "371BC36A-6013-485D-9428-FF08193DE267"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "335AD452-57EA-46F1-BACD-DB3BC4BD5F2A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "713183AF-7958-4D4A-9CC6-AD9882669E1F"
-    },
-    {
-      "class": "group",
-      "id": "57D5483E-0229-46EE-8715-18B81E790834"
-    },
-    {
-      "class": "text",
-      "id": "E3677FA2-E180-448E-9DDA-2BF3B3AC8CE4"
-    },
-    {
-      "class": "text",
-      "id": "5245EAEE-F83A-4266-A7DE-84BA437E6A50"
+      "id": "21A3072D-25F8-455D-BB0B-D59BB7466573"
     },
     {
       "class": "symbolInstance",
       "id": "C38A6445-B42D-4E50-96AD-D88BAAC38456"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E90174B9-D682-42C2-AFCC-43B83E6BC4D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DB5F775-4097-4B42-954D-2EE1CD44F4BA"
+    },
+    {
+      "class": "text",
+      "id": "E020056D-A9DE-42F5-AB21-E27ECB5D28BC"
     }
   ],
   "layout": {
@@ -110,7 +102,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 984
   },
-  "name": "home copy",
+  "name": "home/info big",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

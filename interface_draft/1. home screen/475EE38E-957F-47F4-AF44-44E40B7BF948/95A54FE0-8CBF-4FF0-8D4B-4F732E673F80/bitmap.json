@@ -45,7 +45,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": true,
       "motionAngle": 0,
-      "radius": 36.3671875,
+      "radius": 0,
       "type": 0
     },
     "contextSettings": {

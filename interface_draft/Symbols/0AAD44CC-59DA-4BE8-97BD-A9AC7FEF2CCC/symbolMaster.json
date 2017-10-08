@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 359,
+  "changeIdentifier": 371,
   "do_objectID": "0AAD44CC-59DA-4BE8-97BD-A9AC7FEF2CCC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 64,
     "width": 179,
-    "x": 1861,
-    "y": 1292
+    "x": 1703,
+    "y": 328
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,14 +41,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "104DE286-8948-440D-8B12-6A5C05807627"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51766BAD-047C-426E-A0AD-B85A8508048A"
     }
   ],
-  "name": "button/64/with_opacity",
+  "name": "button/64/fill_with_opacity",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

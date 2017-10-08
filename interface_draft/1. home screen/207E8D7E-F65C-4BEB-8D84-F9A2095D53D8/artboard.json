@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1920,
     "width": 1080,
-    "x": 1665,
-    "y": 226
+    "x": -1131,
+    "y": 3321
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -55,8 +55,8 @@
       "id": "55E26EB4-C900-486D-9D80-8B7F7AE7EFDE"
     },
     {
-      "class": "shapeGroup",
-      "id": "D3805A86-145A-496F-8FB1-324BDE6FA0FE"
+      "class": "symbolInstance",
+      "id": "778E221A-65BE-4A8F-AF74-2111B30DFF9B"
     },
     {
       "class": "bitmap",
@@ -76,19 +76,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "420BF06C-F920-4A07-9C48-0957E16C823F"
+      "id": "49A286B7-44D4-482E-93A7-4E7563E4AA7C"
     },
     {
-      "class": "group",
-      "id": "7F7E15C8-E7F6-4EFE-88FA-58A24789B702"
+      "class": "symbolInstance",
+      "id": "25D02812-7DAE-4B1E-A6E5-7FCA711DA460"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4C451FC-11A6-4B13-BC24-485EBEDFB7E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D45A95F5-B090-4760-A753-1C08B727D53E"
     },
     {
       "class": "text",
-      "id": "777835F5-79DE-4B3E-8860-69939B969A44"
-    },
-    {
-      "class": "text",
-      "id": "886743B0-6921-4736-9C4E-BB5567543C63"
+      "id": "862AD96A-87FA-4C2E-A8AA-6048C97EE987"
     }
   ],
   "layout": {
@@ -106,7 +110,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 984
   },
-  "name": "home copy",
+  "name": "label short",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
