@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E66F82B8-02C6-46DC-99F2-AD14FF14FD90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 208,
+    "width": 1080,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "header opened",
+  "nameIsFixed": false,
+  "overrides": {
+    "337B3262-1959-450A-9F77-067ACE42EA68": {
+      "symbolID": "FDBD881A-4B0B-401B-85EB-049154E2B884"
+    },
+    "561B2A95-4336-4D5E-8231-04D8371A24F8": "Речной вокзал",
+    "D15A9E42-F76C-43D8-B0DC-DBE95734354A": "Арбатско-Покровская",
+    "FE329E1F-782E-478E-8996-2DCA68257A73": {
+      "symbolID": "6B8F86B0-1379-4748-ABF5-0BBC12F3DF84"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "49EE2BE1-A230-461F-8CFA-2F50698A91D4",
+  "verticalSpacing": 0
+}

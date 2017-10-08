@@ -14,16 +14,16 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 23,
-    "x": 13,
-    "y": 13
+    "width": 123,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "E0EC727F-49B0-47AF-82A8-09A2BAFC006B"
+      "id": "09F3C329-7305-4739-AFD3-9D01FFF6423F"
     }
   ],
   "name": "Group",

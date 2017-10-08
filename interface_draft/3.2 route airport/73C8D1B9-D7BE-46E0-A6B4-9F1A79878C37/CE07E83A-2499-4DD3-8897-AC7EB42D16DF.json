@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CE07E83A-2499-4DD3-8897-AC7EB42D16DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 984,
+    "x": 48,
+    "y": 1824
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/48/fill_with_opacity",
+  "nameIsFixed": false,
+  "overrides": {
+    "3CA34BF0-3D5E-49DF-971A-376D9A4CA5DD": {
+      "D63E7891-49C1-48EC-BF50-7C9DA0DA313E": "Вернуться назад"
+    },
+    "DC7D8529-7795-4A9A-A974-4F949CAA68D1": {
+      "symbolID": "DD22C95B-982A-4F73-83A9-580F07B004E2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A9F68C03-87C8-4786-B6D0-A57FFFE0E424",
+  "verticalSpacing": 0
+}

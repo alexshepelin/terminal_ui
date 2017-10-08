@@ -55,8 +55,8 @@
       "id": "309D7BB3-6D62-409D-870D-16A75B397334"
     },
     {
-      "class": "group",
-      "id": "E5FB3D96-12EB-40DD-9975-69DFF45F7B6B"
+      "class": "bitmap",
+      "id": "195F40EC-8347-459E-8B7A-B85F0FEC2006"
     },
     {
       "class": "symbolInstance",
@@ -69,14 +69,6 @@
     {
       "class": "symbolInstance",
       "id": "082130AF-5DD1-4145-A460-5E14170B87E9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7CF02881-2DA0-421E-A572-CD655A7AEAC8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3E355788-D7A4-494B-BD44-FDA28FE92743"
     },
     {
       "class": "symbolInstance",
