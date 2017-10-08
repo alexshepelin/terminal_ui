@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 62,
     "width": 156,
-    "x": 876,
-    "y": 520
+    "x": 876.0000000000001,
+    "y": 344
   },
   "hasClickThrough": false,
   "hasClippingMask": false,

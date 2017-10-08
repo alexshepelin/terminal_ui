@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 539,
+  "changeIdentifier": 650,
   "do_objectID": "920146C8-4B59-414F-8729-72543F0D69DE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 48,
     "width": 179,
-    "x": 1424,
+    "x": 1540,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -49,7 +49,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "68A5FC85-92E0-4B81-860A-445963B08C41"
+      "id": "3EA0EEAE-9653-427D-89E8-AC1E9BAAFAD9"
     }
   ],
   "name": "button/48/bordered",

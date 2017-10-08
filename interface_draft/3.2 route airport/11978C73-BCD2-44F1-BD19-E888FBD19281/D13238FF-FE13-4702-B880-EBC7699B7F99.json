@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 240,
+    "height": 64,
     "width": 228,
     "x": 804,
     "y": 256

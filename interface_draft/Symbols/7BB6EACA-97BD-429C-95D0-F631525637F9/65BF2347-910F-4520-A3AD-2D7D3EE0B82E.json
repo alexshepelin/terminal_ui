@@ -22,11 +22,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 29,
-    "width": 62,
-    "x": 58.5,
+    "width": 179,
+    "x": 0,
     "y": 17
   },
-  "glyphBounds": "{{2, 6}, {58, 19}}",
+  "glyphBounds": "{{61, 6}, {58, 19}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -43,5 +43,5 @@
   "style": {
     "sharedObjectID": "888605D6-98FD-4E9D-828A-2B8AD13D197F"
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
