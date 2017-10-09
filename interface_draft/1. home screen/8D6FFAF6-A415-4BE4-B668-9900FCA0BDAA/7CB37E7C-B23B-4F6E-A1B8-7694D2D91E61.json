@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7CB37E7C-B23B-4F6E-A1B8-7694D2D91E61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 480,
+    "x": 300,
+    "y": 1576
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/64/with_opacity",
+  "nameIsFixed": false,
+  "overrides": {
+    "51766BAD-047C-426E-A0AD-B85A8508048A": {
+      "65BF2347-910F-4520-A3AD-2D7D3EE0B82E": "Touch screen here for english version"
+    },
+    "591D013C-2726-47B7-97A8-ABE2C291C12B": {
+      "symbolID": "DD22C95B-982A-4F73-83A9-580F07B004E2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D5216820-C0D7-49CE-9CE1-C8146FCDFA7C",
+  "verticalSpacing": 0
+}

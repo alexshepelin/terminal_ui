@@ -30,6 +30,12 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "header opened",
   "nameIsFixed": false,
+  "overrides": {
+    "561B2A95-4336-4D5E-8231-04D8371A24F8": "ЗИЛ",
+    "FE329E1F-782E-478E-8996-2DCA68257A73": {
+      "symbolID": "274F82CC-12C7-4B74-89A2-30A35BB268BC"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

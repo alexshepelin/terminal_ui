@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.1316432823129252,
-    "green": 0.1316432823129252,
-    "red": 0.1316432823129252
+    "blue": 0.2627450980392157,
+    "green": 0.1647058823529412,
+    "red": 0.05098039215686272
   },
   "do_objectID": "6C16ADAA-94B5-44BE-8E24-9021F918B6C5",
   "exportOptions": {
@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1920,
     "width": 1080,
-    "x": 455,
-    "y": 226
+    "x": 2652,
+    "y": 583
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -52,6 +52,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "346D9D99-BF8C-49E3-94AA-723CD318365A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "440A37C2-9B64-47B9-9BF2-2055DBC236D3"
     },
     {
@@ -60,19 +64,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8E91DC92-9667-4E8D-ACA0-C7BAC2700FE6"
-    },
-    {
-      "class": "group",
-      "id": "57D5483E-0229-46EE-8715-18B81E790834"
-    },
-    {
-      "class": "text",
-      "id": "E3677FA2-E180-448E-9DDA-2BF3B3AC8CE4"
+      "id": "C38A6445-B42D-4E50-96AD-D88BAAC38456"
     },
     {
       "class": "symbolInstance",
-      "id": "C38A6445-B42D-4E50-96AD-D88BAAC38456"
+      "id": "E90174B9-D682-42C2-AFCC-43B83E6BC4D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DB5F775-4097-4B42-954D-2EE1CD44F4BA"
+    },
+    {
+      "class": "text",
+      "id": "E020056D-A9DE-42F5-AB21-E27ECB5D28BC"
     }
   ],
   "layout": {
@@ -90,7 +94,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 984
   },
-  "name": "home copy",
+  "name": "home/info big",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

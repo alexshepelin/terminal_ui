@@ -7,7 +7,7 @@
     "green": 0.1269549197542625,
     "red": 0.02702863288648201
   },
-  "changeIdentifier": 770,
+  "changeIdentifier": 3649,
   "do_objectID": "2E64E629-DA8E-44E3-94E2-E6C20D398030",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,30 +41,49 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "561B2A95-4336-4D5E-8231-04D8371A24F8"
     },
     {
-      "class": "group",
-      "id": "4F1F5965-5ECF-44D6-BB4F-347D0036A104"
+      "class": "symbolInstance",
+      "id": "FE329E1F-782E-478E-8996-2DCA68257A73"
     },
     {
       "class": "text",
       "id": "99B5A9FE-5DED-4EF7-8EE2-DE5ED82E17BF"
     },
     {
-      "class": "group",
-      "id": "277AB463-E03C-40CD-80F3-01566F8BCC52"
+      "class": "symbolInstance",
+      "id": "1D3E36EB-12BA-41FE-AA07-76CA20A71B79"
     },
     {
       "class": "group",
       "id": "28C0F9BD-44C3-4B4F-BD04-27EC553D1980"
+    },
+    {
+      "class": "group",
+      "id": "F9FE641A-2B10-430D-99BF-F48AE1CE5C0C"
     }
   ],
-  "name": "block/header",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 24,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 48,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 984
+  },
+  "name": "block/header/block",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

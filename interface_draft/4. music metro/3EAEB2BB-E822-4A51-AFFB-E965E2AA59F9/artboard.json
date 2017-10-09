@@ -35,7 +35,7 @@
     "y": -521
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "619E6E74-2279-4803-9A52-93DCA07A2C25"
+    },
     {
       "class": "symbolInstance",
       "id": "43C9C3DC-2D8A-46E9-9362-903847575187"
