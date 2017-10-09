@@ -16,7 +16,11 @@
     "height": 240,
     "width": 199,
     "x": 441,
+<<<<<<< HEAD
     "y": 796
+=======
+    "y": 1136
+>>>>>>> origin/andrey
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,

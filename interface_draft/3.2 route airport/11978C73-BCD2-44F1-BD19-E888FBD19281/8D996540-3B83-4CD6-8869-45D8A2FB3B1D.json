@@ -15,8 +15,13 @@
     "constrainProportions": false,
     "height": 64,
     "width": 312,
+<<<<<<< HEAD
     "x": 384,
     "y": 256
+=======
+    "x": 395,
+    "y": 578
+>>>>>>> origin/andrey
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,

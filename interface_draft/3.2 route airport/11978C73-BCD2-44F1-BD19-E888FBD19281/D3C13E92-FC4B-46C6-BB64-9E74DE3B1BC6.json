@@ -24,7 +24,11 @@
     "height": 38,
     "width": 256,
     "x": 72,
+<<<<<<< HEAD
     "y": 356
+=======
+    "y": 827
+>>>>>>> origin/andrey
   },
   "glyphBounds": "{{2, 9}, {254, 27}}",
   "heightIsClipped": false,
